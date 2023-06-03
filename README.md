@@ -1,5 +1,5 @@
-# The Rust Book code along
-
+# The Rust Programming Language book code along
+My code as I follow along while reading [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 ## Helpful commands
 
 ### Init new project
